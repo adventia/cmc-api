@@ -1,0 +1,37 @@
+﻿[
+  {
+    "product_id": 1,
+    "productname": "Mens Shoes",
+    "product_guid": "535dad9a-2be6-4577-844a-fcfcc3f606bc",
+    "price": 89.99,
+    "available": 0
+  },
+  {
+    "product_id": 2,
+    "productname": "Umbrella",
+    "product_guid": "e0491e22-d96a-45e6-88f5-208e574e8bbe",
+    "price": 25.99,
+    "available": 0
+  },
+  {
+    "product_id": 3,
+    "productname": "Baseball cap",
+    "product_guid": "c6e1cb13-85be-4e90-ba3a-c16684dad09c",
+    "price": 39.99,
+    "available": 0
+  },
+  {
+    "product_id": 4,
+    "productname": "Sports bag",
+    "product_guid": "21d871b0-5347-4d9e-a812-03b12068ba79",
+    "price": 49.99,
+    "available": 0
+  },
+  {
+    "product_id": 5,
+    "productname": "Womens Shoes",
+    "product_guid": "f503797f-9aa9-43e9-98e3-dc54c4125ebf",
+    "price": 139.99,
+    "available": 0
+  }
+]
